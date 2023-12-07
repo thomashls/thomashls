@@ -26,7 +26,7 @@ I'm Thomas HEILES, a third-year student at Epitech, where I'm constantly explori
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23F24E1E.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23F24E1E.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
