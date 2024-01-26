@@ -74,7 +74,3 @@ I'm a third-year student at Epitech, where I'm constantly exploring and learning
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jvlxz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-<h2 align="left">Connect with Me</h2>
-
-- ✉️ : heiles.thomas@icloud.com
