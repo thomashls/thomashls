@@ -4,7 +4,7 @@ I'm a fifth-year student at Epitech, where I'm constantly exploring and learning
 
 <h2 align="left">About me</h2>
 
-- 📚 Education: Fourth Year Student at Epitech Lyon.
+- 📚 Education: Fifth Year Student at Epitech Lyon.
 - 💡 Interests: Always eager to learn about emerging technologies and innovative solutions.
 - 🎯 Goals: To contribute to meaningful projects and keep expanding my technical horizons.
 
