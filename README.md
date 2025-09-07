@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm a fourth-year student at Epitech, where I'm constantly exploring and learning new technologies. My journey in tech is driven by curiosity and the excitement of turning ideas into reality.
+I'm a fifth-year student at Epitech, where I'm constantly exploring and learning new technologies.
 
 <h2 align="left">About me</h2>
 
